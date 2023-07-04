@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/burik666/gobin/internal/cmd"
+	"github.com/pkgs-run/myitcv--gobin/internal/cmd"
 )
 
 func main() {
