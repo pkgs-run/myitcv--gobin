@@ -1,4 +1,4 @@
-module github.com/burik666/gobin
+module github.com/pkgs-run/myitcv--gobin
 
 go 1.17
 
